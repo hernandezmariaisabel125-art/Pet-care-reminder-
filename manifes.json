@@ -1,0 +1,32 @@
+{
+  "name": "Pet care reminder",
+  "short_name": "pruebaTienda",
+  "description": "Una prueba de PWA",
+  "start_url": "/index.html",
+  
+  
+  "display": "standalone",
+  "background_color": "cacbce",
+  "theme_color": "#8C4830",
+  "icons": [
+    {
+      "src": "assets/logo.png", 
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable" 
+    },
+    {
+      "src": "assets/512X512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "assets/image.png",
+      "sizes": "455x814",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
